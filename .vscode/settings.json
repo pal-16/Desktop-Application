@@ -1,0 +1,22 @@
+{
+    "java.errors.incompleteClasspath.severity": "ignore",
+    "C_Cpp.loggingLevel": "None",
+    "scss.lint.argumentsInColorFunction": "ignore",
+    "scss.lint.hexColorLength": "ignore",
+    "outline.problems.enabled": false,
+    "outline.problems.colors": false,
+    "outline.problems.badges": false,
+    "telemetry.enableTelemetry": false,
+    "solidity.enabledAsYouTypeCompilationErrorCheck": false,
+    "css.lint.argumentsInColorFunction": "ignore",
+    "css.lint.hexColorLength": "ignore",
+    "less.lint.argumentsInColorFunction": "ignore",
+    "less.lint.hexColorLength": "ignore",
+    "problems.decorations.enabled": false,
+    "css.lint.emptyRules": "ignore",
+    "css.lint.fontFaceProperties": "ignore",
+    "python.linting.flake8CategorySeverity.E": "Warning",
+    "python.linting.flake8CategorySeverity.F": "Warning",
+    "C_Cpp.default.enableConfigurationSquiggles": false,
+    "C_Cpp.errorSquiggles": "Disabled"
+}
